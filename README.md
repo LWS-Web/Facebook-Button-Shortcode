@@ -7,7 +7,7 @@ Display Facebook-Buttons via shortcode.
 ## Installation
 
 1. Unzip the download package
-2. Upload `i3-fb-buttons` to the `/wp-content/plugins/` directory
+2. Upload `facebook-button-shortcode` to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 ***
